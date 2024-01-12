@@ -1,0 +1,81 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "Women's Floral Print Summer Dress",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTpHyThYGsvSwajyUNLiIXTBFZcuYhGBkX_g&usqp=CAU",
+      "price": 499,
+      "category": "women"
+    },
+    {
+      "id": "2",
+      "name": "Men's Stylish Leather Jacket",
+      "image": "https://m.media-amazon.com/images/W/MEDIAX_792452-T2/images/I/41-N1Zm+2zL._AC_UY1100_.jpg",
+      "price": 799,
+      "category": "men"
+    },
+    {
+      "id": "3",
+      "name": "Wireless Bluetooth Earbuds",
+      "image": "https://m.media-amazon.com/images/W/MEDIAX_792452-T2/images/I/51B9yEx2g+L.jpg",
+      "price": 1499,
+      "category": "electric"
+    },
+    {
+      "id": "4",
+      "name": "Gemstone Studded Gold Necklace",
+      "image": "https://gehnashop.com/cdn/shop/files/modern-look-kundan-ruby-stone-studded-golden-necklace-set-by-gehna-shop-gehna-shop-buy-bridal-gold-necklace-set-for-ladies-online-41753407750459.jpg?v=1687998243",
+      "price": 7499,
+      "category": "jewellery"
+    },
+    {
+      "id": "5",
+      "name": "Portable Foldable Travel Backpack",
+      "image": "https://m.media-amazon.com/images/W/MEDIAX_792452-T2/images/I/51Xwabhc1UL._AC_UY1100_.jpg",
+      "price": 899,
+      "category": "travel"
+    },
+    {
+      "id": "6",
+      "name": "Smart Fitness Tracker Watch",
+      "image": "https://i5.walmartimages.com/seo/Fitness-Tracker-Smart-Watch-Smart-Watch-for-Android-Phone-Men-s-and-Women-s-Smart-Watch-Sleep-Monitor-All-Day-Heart-Rate_ea0e49ff-66a8-4191-9442-03f1111910d1.9111207cbebefba9ead43fce7e951488.jpeg",
+      "price": 1999,
+      "category": "electric"
+    },
+    {
+      "id": "7",
+      "name": "Men's Formal Business Shirt",
+      "image": "https://www.tradeindia.com/_next/image/?url=https%3A%2F%2Ftiimg.tistatic.com%2Ffp%2F1%2F007%2F584%2Fmens-formal-shirts-colour-silver-t-shirt-is-a-timeless-staple-perfect-for-any-occasion-497.jpg&w=750&q=75",
+      "price": 599,
+      "category": "men"
+    },
+    {
+      "id": "8",
+      "name": "Designer Pearl Earrings",
+      "image": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1678796326-B027944_1.jpg?crop=0.734xw:0.929xh;0.139xw,0&resize=980:*",
+      "price": 1499,
+      "category": "jewellery"
+    },
+    {
+      "id": "9",
+      "name": "Compact Portable Blender",
+      "image": "https://m.media-amazon.com/images/W/MEDIAX_792452-T2/images/I/5117s7MNKnL._AC_UF894,1000_QL80_.jpg",
+      "price": 1299,
+      "category": "electric"
+    },
+    {
+      "id": "10",
+      "name": "Men's Vintage Style Sunglasses",
+      "image": "https://5.imimg.com/data5/SELLER/Default/2021/10/YG/JF/GF/40134419/new-classic-oversized-sahil-khan-vintage-sunglasses-for-men-and-women-sunglassescraft.jpg",
+      "price": 299,
+      "category": "men"
+    },
+    {
+      "id": "11",
+      "name": "Summer Dress",
+      "image": "https://m.media-amazon.com/images/W/MEDIAX_792452-T2/images/I/516U8MVqAGL._AC_UY1100_.jpg",
+      "price": 499,
+      "category": "women"
+    }
+  ]
+}
