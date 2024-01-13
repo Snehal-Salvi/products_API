@@ -76,6 +76,15 @@
       "image": "https://m.media-amazon.com/images/W/MEDIAX_792452-T2/images/I/516U8MVqAGL._AC_UY1100_.jpg",
       "price": 499,
       "category": "women"
-    }
+    },
+
+ {
+      "id": "12",
+      "name": "Flared Dress",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQy8K6zQtPPxJh4_vUzaLOn129qAofdpa1vHep1SzaCjq7FcGqvy928lT_aBVXHdASjyYE&usqp=CAU",
+      "price": 800,
+      "category": "women"
+ }
+
   ]
 }
